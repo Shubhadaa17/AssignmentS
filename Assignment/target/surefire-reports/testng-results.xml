@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-06T21:11:53 IST" name="Suite" finished-at="2022-06-06T21:12:14 IST" duration-ms="21096">
+    <groups>
+    </groups>
+    <test started-at="2022-06-06T21:11:53 IST" name="Test" finished-at="2022-06-06T21:12:14 IST" duration-ms="21096">
+      <class name="testjava.SignUpTest">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:11:53 IST" name="BrowserLaunch" finished-at="2022-06-06T21:12:10 IST" duration-ms="17616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:10 IST" name="allPageObjects" finished-at="2022-06-06T21:12:10 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="verifyUrlOfPage()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:10 IST" name="verifyUrlOfPage" finished-at="2022-06-06T21:12:10 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrlOfPage -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:10 IST" name="allPageObjects" finished-at="2022-06-06T21:12:10 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="Lang()[pri:1, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:10 IST" name="Lang" finished-at="2022-06-06T21:12:11 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lang -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:11 IST" name="allPageObjects" finished-at="2022-06-06T21:12:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="verifyCreateBtn()[pri:2, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:11 IST" name="verifyCreateBtn" finished-at="2022-06-06T21:12:11 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateBtn -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:11 IST" name="allPageObjects" finished-at="2022-06-06T21:12:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="signupCreds()[pri:3, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:11 IST" name="signupCreds" finished-at="2022-06-06T21:12:13 IST" duration-ms="1780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupCreds -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:testjava.SignUpTest@3738449f]" started-at="2022-06-06T21:12:13 IST" name="tearDownBrowser" finished-at="2022-06-06T21:12:14 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- testjava.SignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
